@@ -31,5 +31,5 @@ Tableau, Mapbox / OpenStreetMap
 <a href="https://github.com/samratbashyal/Project-Tableau/blob/main/Tableau%20Full%20Project.xlsx">Dataset</a>
 
 ## Author
-Samrat Bashyal
+**Samrat Bashyal**
 
