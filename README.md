@@ -27,5 +27,9 @@ A Tableau dashboard analyzing Airbnb listing prices and revenue trends in Seattl
 
 Tableau, Mapbox / OpenStreetMap
 
+## Dataset Used
+<a href="https://github.com/samratbashyal/Project-Tableau/blob/main/Tableau%20Full%20Project.xlsx"></a>
 
+## Author
+**Samrat Bashyal**
 
