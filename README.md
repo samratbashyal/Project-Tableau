@@ -16,7 +16,7 @@ A Tableau dashboard analyzing Airbnb listing prices and revenue trends in Seattl
 
 - **Bigger = pricier:** average price rises from **$96.2** (1 bed) to **$584.8** (6 beds).
 - **Small units dominate:** 1–2 bedroom listings make up about **89%** of all listings (1,811 + 483 of ~2,580).
-- **Location matters:** zipcode **98134** is the most expensive (~$206.6), while **98125** is the cheapest (~$64.7), about a 3x gap.
+- **Location matters:** zipcode **98134** is the most expensive ($206.6), while 98125 is the cheapest ($64.7), about a 3x gap.
 - **Revenue trend:** weekly revenue grows from ~$1M in January to ~$2M by late May, then stays steady through December.
 
 ##  Note
